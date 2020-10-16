@@ -1,0 +1,19 @@
+
+a.feed-icon-forum {
+	float: right;
+	margin: 3px;
+}
+
+
+
+a.down, a.down:link, a.down:active, a.down:visited {
+	padding-right: 10px;
+}
+
+/* Hover effects */
+
+.postlink:hover {
+	background-color: #f6f6f6;
+	text-decoration: none;
+	color: #404040;
+}

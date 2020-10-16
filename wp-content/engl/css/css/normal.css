@@ -1,0 +1,9 @@
+
+label img {
+	vertical-align: middle;
+}
+
+#search-box a:visited, .navbg a:visited, .forumbg .header a:visited, .forabg .header a:visited, th a:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}

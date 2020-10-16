@@ -1,0 +1,47 @@
+
+.search-box {
+	margin-top: 3px;
+	margin-left: 5px;
+	float: left;
+}
+
+.postlink:active {
+	color: #d2d2d2;
+}
+
+#smiley-box img {
+	margin: 3px;
+}
+
+/* Links on gradient backgrounds */
+
+#message-box textarea {
+	font-family: "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+	width: 450px;
+	height: 270px;
+	min-width: 100%;
+	max-width: 100%;
+	font-size: 1.2em;
+	color: #333333;
+}
+
+fieldset.display-actions {
+	text-align: right;
+	line-height: 2em;
+	white-space: nowrap;
+	padding-right: 1em;
+}
+
+a:hover	{ color: #d3d3d3; text-decoration: underline; }
+
+/* Form button styles
+---------------------------------------- */
+
+.panel {
+	background-color: #ECF1F3;
+	color: #28313F;
+}
+
+dd input, dd textarea {
+	margin-right: 3px;
+}

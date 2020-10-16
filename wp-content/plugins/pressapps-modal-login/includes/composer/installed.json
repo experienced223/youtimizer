@@ -1,0 +1,27 @@
+[
+    {
+        "name": "skelet",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/PressApps/skelet.git",
+            "reference": "5f88d10354212c3e33242689a3d2b33dc0479d34"
+        },
+        "time": "2018-05-09T18:29:53+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "authors": [
+            {
+                "name": "PressApps",
+                "homepage": "http://pressapps.co/"
+            }
+        ],
+        "description": "WordPress plugin admin framework for adding options fields to options pages, shortcodes, metaboxes, widgets and customiser.",
+        "keywords": [
+            "options",
+            "plugin",
+            "wordpress"
+        ]
+    }
+]

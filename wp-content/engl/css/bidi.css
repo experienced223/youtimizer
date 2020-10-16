@@ -1,0 +1,11 @@
+
+a.feed-icon-forum {
+	float: right;
+	margin: 3px;
+}
+
+
+
+a.down, a.down:link, a.down:active, a.down:visited {
+	padding-right: 10px;
+}

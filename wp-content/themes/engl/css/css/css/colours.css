@@ -1,0 +1,9 @@
+
+fieldset.display-options a {
+	margin-top: 3px;
+}
+
+dd label {
+	white-space: nowrap;
+	color: #333;
+}

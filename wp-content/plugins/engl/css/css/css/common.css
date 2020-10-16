@@ -1,0 +1,43 @@
+
+fieldset dl:hover dt label {
+	color: #000000;
+}
+
+#smiley-box img {
+	margin: 3px;
+}
+
+label {
+	cursor: default;
+	padding-right: 5px;
+	color: #676767;
+}
+
+a.right:hover {
+	color: #d2d2d2;
+	text-decoration: none;
+	background-position: 100% 60%;
+}
+
+/* MCP forum selection*/
+fieldset.forum-selection {
+	margin: 5px 0 3px 0;
+	float: right;
+}
+
+a {
+	direction: ltr;
+	unicode-bidi: embed;
+}
+
+a:hover	{ color: #d3d3d3; text-decoration: underline; }
+
+.postprofile a:active {
+	font-weight: bold;
+	color: #898989;
+	text-decoration: none;
+}
+
+#timezone {
+	width: 95%;
+}

@@ -1,0 +1,51 @@
+
+fieldset.display-options a {
+	margin-top: 3px;
+}
+
+/* General form styles
+----------------------------------------*/
+
+fieldset.fields2 dl:hover dt label {
+	color: inherit;
+}
+
+/* Topic and forum Search */
+
+h2 {
+	color: #28313F;
+}
+
+a.top2 {
+	background: none no-repeat 0 50%;
+	text-decoration: none;
+	padding-left: 15px;
+}
+
+dd input, dd textarea {
+	margin-right: 3px;
+}
+
+.inputbox:focus {
+	border: 1px solid #eaeaea;
+	color: #4b4b4b;
+}
+
+/* Input field styles
+---------------------------------------- */
+
+/* Emoticons panel */
+#smiley-box {
+	width: 18%;
+	float: right;
+}
+
+dd select {
+	width: auto;
+}
+
+/* Alternative button */
+
+a.down, a.down:link, a.down:active, a.down:visited {
+	padding-right: 10px;
+}

@@ -1,0 +1,28 @@
+
+input {
+	font-weight: normal;
+	cursor: pointer;
+	vertical-align: middle;
+	padding: 0 3px;
+	font-size: 1em;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+
+.search .postprofile a:hover {
+	color: #d3d3d3;
+	text-decoration: underline; 
+}
+
+fieldset.fields1 dt {
+	width: 15em;
+	border-right-width: 0;
+}
+
+.panel {
+	background-color: #ECF1F3;
+	color: #28313F;
+}
+
+a:link	{ color: #898989; text-decoration: none; }
+
+/* Feed icon in forumlist_body.html */

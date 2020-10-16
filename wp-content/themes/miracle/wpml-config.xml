@@ -1,0 +1,10 @@
+<wpml-config>
+    <admin-texts>
+        <key name="miracle_options">
+            <key name="branding_logo_text" />
+			<key name="blog_page_title" />
+			<key name="shop_page_title" />
+            <key name="footer_copyright_content" />
+        </key>
+    </admin-texts>
+</wpml-config>

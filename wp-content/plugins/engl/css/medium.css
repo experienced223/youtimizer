@@ -1,0 +1,16 @@
+
+.back2top {
+	clear: both;
+	height: 11px;
+	text-align: right;
+}
+
+#search-box a:link, .navbg a:link, .forumbg .header a:link, .forabg .header a:link, th a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+
+textarea.inputbox {
+	width: 85%;
+}

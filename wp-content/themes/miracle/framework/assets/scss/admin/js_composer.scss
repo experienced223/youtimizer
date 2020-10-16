@@ -1,0 +1,175 @@
+/*
+ * Title:   Miracle | Responsive Multi-Purpose Wordpress Theme - Backend JS Composer style file
+ * Author:  http://themeforest.net/user/soaptheme
+ */
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Table of contents]
+
+1. styles for js composer backend
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* 1. styles for js composer backend */
+.vc_el-container, .wpb_element_title {
+	.container, .animation, .blockquote, .headline, .icon_box, .banner, .blog_posts, .posts_slider, .logo_slider, .image_container, .image_banner, .image_gallery, .image_parallax, .video_parallax, .team_member, .testimonial, .call_to_action, .counter_box, .image_box, .infographic_pie, .process, .pricing_table_container, .pricing_table, .testimonials, .button, .post_carousel{
+		background: url(../../images/icon/admin/sprites.png) no-repeat;
+	}
+
+	.container{
+		background-position: -9px -10px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.animation{
+		background-position: -56px -10px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.blockquote{
+		background-position: -106px -9px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.headline{
+		background-position: -160px -12px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.icon_box{
+		background-position: -209px -11px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.banner{
+		background-position: -257px -10px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.blog_posts{
+		background-position: -10px -61px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.posts_slider{
+		background-position: -57px -58px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.logo_slider{
+		background-position: -107px -60px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.image_container{
+		background-position: -158px -60px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.image_banner{
+		background-position: -211px -58px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.image_gallery{
+		background-position: -259px -57px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.image_parallax{
+		background-position: -10px -111px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.video_parallax{
+		background-position: -56px -109px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.team_member{
+		background-position: -109px -112px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.testimonial{
+		background-position: -159px -108px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.call_to_action{
+		background-position: -205px -110px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.counter_box{
+		background-position: -260px -110px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.image_box{
+		background-position: -9px -159px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.infographic_pie{
+		background-position: -58px -158px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.process{
+		background-position: -109px -159px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.pricing_table_container{
+		background-position: -158px -160px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.pricing_table{
+		background-position: -207px -160px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.testimonials{
+		background-position: -260px -159px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.button{
+		background-position: -10px -209px !important;
+		width: 32px;
+		height: 32px;
+	}
+
+	.post_carousel{
+		background-position: -57px -208px !important;
+		width: 32px;
+		height: 32px;
+	}
+}
+.percent_text.textarea_raw_html { height: 100px; }

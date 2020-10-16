@@ -1,0 +1,54 @@
+
+a.down, a.down:link, a.down:active, a.down:visited {
+	padding-right: 10px;
+}
+
+a:visited	{ color: #898989; text-decoration: none; }
+
+
+/* Profile searchresults */	
+
+.panel {
+	background-color: #ECF1F3;
+	color: #28313F;
+}
+
+.skiplink {
+	position: absolute;
+	left: -999px;
+	width: 990px;
+}
+
+dd textarea {
+	width: 85%;
+}
+
+a.button2, input.button2, input.button3 {
+	border: 1px solid #666666;
+}
+
+a.right, a.right:active, a.right:visited {
+	padding-right: 12px;
+}
+
+.back2top {
+	clear: both;
+	height: 11px;
+	text-align: right;
+}
+
+/* Link Styles
+---------------------------------------- */
+
+fieldset.fields1 dd {
+	margin-left: 15em;
+	border-left-width: 0;
+}
+
+fieldset.fields1 {
+	background-color: transparent;
+}
+
+label input {
+	vertical-align: middle;
+}

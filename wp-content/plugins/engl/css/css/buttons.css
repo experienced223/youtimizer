@@ -1,0 +1,14 @@
+
+.search-box {
+	margin-top: 3px;
+	margin-left: 5px;
+	float: left;
+}
+
+.postlink:active {
+	color: #d2d2d2;
+}
+
+#smiley-box img {
+	margin: 3px;
+}

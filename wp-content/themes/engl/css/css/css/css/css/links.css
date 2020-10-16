@@ -1,0 +1,28 @@
+
+fieldset.quickmod {
+	width: 50%;
+	float: right;
+	text-align: right;
+	height: 2.5em;
+}
+
+input.button3 {
+	padding: 0;
+	margin: 0;
+	line-height: 5px;
+	height: 12px;
+	background-image: none;
+	font-variant: small-caps;
+}
+
+fieldset.forum-selection2 {
+	margin: 13px 0 3px 0;
+	float: right;
+}
+
+input.search {
+	background-image: none;
+	background-repeat: no-repeat;
+	background-position: left 1px;
+	padding-left: 17px;
+}

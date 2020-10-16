@@ -1,0 +1,18 @@
+
+a {
+	direction: ltr;
+	unicode-bidi: embed;
+}
+
+a.right, a.right:active, a.right:visited {
+	padding-right: 12px;
+}
+
+hr.dashed {
+	border-top-color: #CCCCCC;
+}
+
+
+textarea.inputbox {
+	width: 85%;
+}

@@ -1,0 +1,32 @@
+/* 
+ * Title:   Miracle | Responsive Multi-Purpose Wordpress Theme - Backend style file
+ * Author:  http://themeforest.net/user/soaptheme
+ */
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Table of contents]
+
+1. styles for theme options
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* 1. styles for theme options */
+.redux-container ul.data-full { margin: 0; }
+.wrap div.updated.fade { opacity: 1; }
+
+.rwmb-meta-box {
+	.select2-container {
+		font-size: 13px;
+		.select2-choice .select2-arrow b:after { display: none; }
+	}
+}
+.redux-field {
+	.select2-container .select2-choice .select2-arrow b:after { display: none; }
+	.select2-container.disable_empty_field .select2-search-choice-close { display: none !important; }
+}
+.rwmb-color-wrapper .wp-picker-holder { z-index: 9; }
+.miracle-header-map-marker-icon .rwmb-images {
+	li, img { width: 60px; height: 60px; }
+}
+
+.wpb-elements-list-modal .wpb-content-layouts li { width: 173px !important; }

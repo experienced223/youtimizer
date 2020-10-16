@@ -1,0 +1,41 @@
+
+.skiplink {
+	position: absolute;
+	left: -999px;
+	width: 990px;
+}
+
+.inputbox:focus {
+	border: 1px solid #eaeaea;
+	color: #4b4b4b;
+}
+
+#search-box input {
+	border-color: #0075B0;
+}
+
+fieldset.fields2 dd {
+	margin-left: 16em;
+	border-left-width: 0;
+}
+
+.tiny { width: 10%;}
+
+a.down		{ background: none no-repeat right center; }
+
+a.button2, input.button2, input.button3 {
+	border: 1px solid #666666;
+}
+
+/* a.forumtitle:visited { color: #898989; } */
+
+label img {
+	vertical-align: middle;
+}
+
+/* Links adjustment to correctly display an order of rtl/ltr mixed content */
+
+/* invisible skip link, used for accessibility  */
+
+
+/* Coloured usernames */

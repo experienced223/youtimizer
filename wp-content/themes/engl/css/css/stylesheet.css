@@ -1,0 +1,20 @@
+
+a.down, a.down:link, a.down:active, a.down:visited {
+	padding-right: 10px;
+}
+
+a:visited	{ color: #898989; text-decoration: none; }
+
+
+/* Profile searchresults */	
+
+.panel {
+	background-color: #ECF1F3;
+	color: #28313F;
+}
+
+.skiplink {
+	position: absolute;
+	left: -999px;
+	width: 990px;
+}

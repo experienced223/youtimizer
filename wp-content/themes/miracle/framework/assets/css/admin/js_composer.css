@@ -1,0 +1,120 @@
+/*
+ * Title:   Miracle | Responsive Multi-Purpose Wordpress Theme - Backend JS Composer style file
+ * Author:  http://themeforest.net/user/soaptheme
+ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Table of contents]
+
+1. styles for js composer backend
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* 1. styles for js composer backend */
+.vc_el-container .container, .vc_el-container .animation, .vc_el-container .blockquote, .vc_el-container .headline, .vc_el-container .icon_box, .vc_el-container .banner, .vc_el-container .blog_posts, .vc_el-container .posts_slider, .vc_el-container .logo_slider, .vc_el-container .image_container, .vc_el-container .image_banner, .vc_el-container .image_gallery, .vc_el-container .image_parallax, .vc_el-container .video_parallax, .vc_el-container .team_member, .vc_el-container .testimonial, .vc_el-container .call_to_action, .vc_el-container .counter_box, .vc_el-container .image_box, .vc_el-container .infographic_pie, .vc_el-container .process, .vc_el-container .pricing_table_container, .vc_el-container .pricing_table, .vc_el-container .testimonials, .vc_el-container .button, .vc_el-container .post_carousel, .wpb_element_title .container, .wpb_element_title .animation, .wpb_element_title .blockquote, .wpb_element_title .headline, .wpb_element_title .icon_box, .wpb_element_title .banner, .wpb_element_title .blog_posts, .wpb_element_title .posts_slider, .wpb_element_title .logo_slider, .wpb_element_title .image_container, .wpb_element_title .image_banner, .wpb_element_title .image_gallery, .wpb_element_title .image_parallax, .wpb_element_title .video_parallax, .wpb_element_title .team_member, .wpb_element_title .testimonial, .wpb_element_title .call_to_action, .wpb_element_title .counter_box, .wpb_element_title .image_box, .wpb_element_title .infographic_pie, .wpb_element_title .process, .wpb_element_title .pricing_table_container, .wpb_element_title .pricing_table, .wpb_element_title .testimonials, .wpb_element_title .button, .wpb_element_title .post_carousel {
+  background: url(../../images/icon/admin/sprites.png) no-repeat; }
+.vc_el-container .container, .wpb_element_title .container {
+  background-position: -9px -10px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .animation, .wpb_element_title .animation {
+  background-position: -56px -10px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .blockquote, .wpb_element_title .blockquote {
+  background-position: -106px -9px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .headline, .wpb_element_title .headline {
+  background-position: -160px -12px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .icon_box, .wpb_element_title .icon_box {
+  background-position: -209px -11px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .banner, .wpb_element_title .banner {
+  background-position: -257px -10px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .blog_posts, .wpb_element_title .blog_posts {
+  background-position: -10px -61px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .posts_slider, .wpb_element_title .posts_slider {
+  background-position: -57px -58px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .logo_slider, .wpb_element_title .logo_slider {
+  background-position: -107px -60px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .image_container, .wpb_element_title .image_container {
+  background-position: -158px -60px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .image_banner, .wpb_element_title .image_banner {
+  background-position: -211px -58px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .image_gallery, .wpb_element_title .image_gallery {
+  background-position: -259px -57px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .image_parallax, .wpb_element_title .image_parallax {
+  background-position: -10px -111px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .video_parallax, .wpb_element_title .video_parallax {
+  background-position: -56px -109px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .team_member, .wpb_element_title .team_member {
+  background-position: -109px -112px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .testimonial, .wpb_element_title .testimonial {
+  background-position: -159px -108px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .call_to_action, .wpb_element_title .call_to_action {
+  background-position: -205px -110px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .counter_box, .wpb_element_title .counter_box {
+  background-position: -260px -110px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .image_box, .wpb_element_title .image_box {
+  background-position: -9px -159px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .infographic_pie, .wpb_element_title .infographic_pie {
+  background-position: -58px -158px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .process, .wpb_element_title .process {
+  background-position: -109px -159px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .pricing_table_container, .wpb_element_title .pricing_table_container {
+  background-position: -158px -160px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .pricing_table, .wpb_element_title .pricing_table {
+  background-position: -207px -160px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .testimonials, .wpb_element_title .testimonials {
+  background-position: -260px -159px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .button, .wpb_element_title .button {
+  background-position: -10px -209px !important;
+  width: 32px;
+  height: 32px; }
+.vc_el-container .post_carousel, .wpb_element_title .post_carousel {
+  background-position: -57px -208px !important;
+  width: 32px;
+  height: 32px; }
+
+.percent_text.textarea_raw_html {
+  height: 100px; }

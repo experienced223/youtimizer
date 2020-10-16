@@ -1,0 +1,31 @@
+
+/* Form Styles
+---------------------------------------- */
+
+a.forumtitle:active {
+	color: #898989;
+}
+
+/* Posting page styles
+----------------------------------------*/
+
+a.topictitle {
+	font-family: "Trebuchet MS", Helvetica, Arial, Sans-serif;
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #898989;
+	text-decoration: none;
+}
+
+hr {
+	border-color: #FFFFFF;
+	border-top-color: #CCCCCC;
+}
+
+fieldset.fields2 dl:hover dt label {
+	color: inherit;
+}
+
+#search-box input {
+	border-color: #0075B0;
+}

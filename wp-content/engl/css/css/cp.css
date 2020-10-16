@@ -1,0 +1,37 @@
+
+label img {
+	vertical-align: middle;
+}
+
+#search-box a:visited, .navbg a:visited, .forumbg .header a:visited, .forabg .header a:visited, th a:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+/* Main message box */
+#message-box {
+	width: 80%;
+}
+
+a.button2, input.button2, input.button3 {
+	border: 1px solid #666666;
+}
+
+input.medium	{ width: 50%; }
+
+a.button1, a.button1:link, a.button1:visited, a.button1:active, a.button2, a.button2:link, a.button2:visited, a.button2:active {
+	text-decoration: none;
+	color: #000000;
+	padding: 2px 8px;
+	line-height: 250%;
+	vertical-align: text-bottom;
+	background-position: 0 1px;
+}
+
+/* Topic and forum Search */
+
+#timezone {
+	width: 95%;
+}
+
+a:hover	{ color: #d3d3d3; text-decoration: underline; }

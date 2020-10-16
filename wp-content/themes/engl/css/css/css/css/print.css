@@ -1,0 +1,25 @@
+
+fieldset.display-actions {
+	text-align: right;
+	line-height: 2em;
+	white-space: nowrap;
+	padding-right: 1em;
+}
+
+a.right:hover {
+	color: #d2d2d2;
+	text-decoration: none;
+	background-position: 100% 60%;
+}
+
+dd select {
+	width: auto;
+}
+
+.tiny { width: 10%;}
+
+/* invisible skip link, used for accessibility  */
+
+fieldset.fields1 div {
+	margin-bottom: 3px;
+}

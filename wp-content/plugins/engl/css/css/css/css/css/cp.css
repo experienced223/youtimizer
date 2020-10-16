@@ -1,0 +1,13 @@
+
+a.button1, input.button1 {
+	font-weight: bold;
+	border: 1px solid #666666;
+}
+
+a:link	{ color: #898989; text-decoration: none; }
+
+/* Form Styles
+---------------------------------------- */
+
+.search-box input {
+}

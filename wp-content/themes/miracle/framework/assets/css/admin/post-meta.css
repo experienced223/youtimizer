@@ -1,0 +1,130 @@
+/*
+ * Title:   Miracle | Responsive Multi-Purpose Wordpress Theme - Backend post meta style file
+ * Author:  http://themeforest.net/user/soaptheme
+ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Table of contents]
+
+1. styles for form table of post meta box
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/*
+ * Title:   Miracle | Responsive Multi-Purpose Wordpress Theme - SCSS Variables for style customization
+ * Author:  http://themeforest.net/user/soaptheme
+ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Table of contents]
+
+1. Global
+2. Skin colors
+3. Skin logos
+4. Important colors
+5. Skin 1
+6. Skin 2
+7. Skin 3
+8. Skin 4
+9. Skin 5
+10. Skin 6
+11. Skin 7
+12. Skin 8
+13. Skin 9
+14. Skin 10
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* 1. Global */
+/* 2. Theme skin colors */
+/* 3. Skin logos */
+/* 4. Important colors */
+/* 5. Skin 1(Orange) */
+/* 6. Skin 2(Green) */
+/*$theme-skin-logo: $theme-skin2-logo;
+$theme-skin-color: $theme-skin-green;
+$theme-skin-light-bgcolor: #a2d13a;
+$theme-skin-light-fontcolor: #d8eaaf;*/
+/* 7. Skin 3(Purple) */
+/*$theme-skin-logo: $theme-skin3-logo;
+$theme-skin-color: $theme-skin-purple;
+$theme-skin-light-bgcolor: #bd50d7;
+$theme-skin-light-fontcolor: #f1c5fb;*/
+/* 8. Skin 4(Blue) */
+/*$theme-skin-logo: $theme-skin4-logo;
+$theme-skin-color: $theme-skin-blue;
+$theme-skin-light-bgcolor: #1aabf0;
+$theme-skin-light-fontcolor: #c8e9f9;*/
+/* 9. Skin 5(Yellow) */
+/*$theme-skin-logo: $theme-skin5-logo;
+$theme-skin-color: $theme-skin-yellow;
+$theme-skin-light-bgcolor: #ffb61a;
+$theme-skin-light-fontcolor: #f0deb8;*/
+/* 10. Skin 6(Gray) */
+/*$theme-skin-logo: $theme-skin6-logo;
+$theme-skin-color: $theme-skin-gray;
+$theme-skin-light-bgcolor: #b4b4b4;
+$theme-skin-light-fontcolor: #d9d9d9;*/
+/* 11. Skin 7(Navy) */
+/*$theme-skin-logo: $theme-skin7-logo;
+$theme-skin-color: $theme-skin-navy;
+$theme-skin-light-bgcolor: #1a7bff;
+$theme-skin-light-fontcolor: #c9dcf7;*/
+/* 12. Skin(Sea) 8 */
+/*$theme-skin-logo: $theme-skin8-logo;
+$theme-skin-color: $theme-skin-sea;
+$theme-skin-light-bgcolor: #23bda1;
+$theme-skin-light-fontcolor: #cef2eb;*/
+/* 13. Skin 9(Red) */
+/*$theme-skin-logo: $theme-skin9-logo;
+$theme-skin-color: $theme-skin-red;
+$theme-skin-light-bgcolor: #ff3030;
+$theme-skin-light-fontcolor: #eec8c8;*/
+/* 14. Skin 10(Gold) */
+/*$theme-skin-logo: $theme-skin10-logo;
+$theme-skin-color: $theme-skin-gold;
+$theme-skin-light-bgcolor: #ddc541;
+$theme-skin-light-fontcolor: #eee9cb;*/
+/*
+ * Title:   Miracle | Responsive Multi-Purpose Wordpress Theme - SCSS Mixin
+ * Author:  http://themeforest.net/user/soaptheme
+ */
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Table of contents]
+
+1) BORDER RADIUS
+2) OPACITY
+3) BACKGROUND GRADIENT
+4) BOX SHADOW
+5) TEXT SHADOW
+6) TRANSITION
+7) ANIMATION
+8) TRANSFORM
+9) DESATURATE
+10) RETINA
+11) GRADIENT IMAGE
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* 1) BORDER RADIUS */
+/* 2) OPACITY */
+/* 3) BACKGROUND GRADIENT */
+/* 4) BOX SHADOW */
+/* 5) TEXT SHADOW */
+/* 6) TRANSITION */
+/* 7) ANIMATION */
+/* 8) TRANSFORM */
+/* 9) DESATURATE */
+/* 10) RETINA */
+/* 11) GRADIENT IMAGE */
+/* 1. styles for form table of post meta box */
+.no-margin {
+  margin: 0 !important; }
+
+.rwmb-field.rwmb-radio-wrapper .rwmb-input > label {
+  margin-right: 6px; }
+  .rwmb-field.rwmb-radio-wrapper .rwmb-input > label:last-child {
+    margin-right: 0; }
+.rwmb-field .rwmb-label {
+  margin-bottom: 4px; }
+.rwmb-field.full-width .rwmb-text {
+  width: 99%; }
+
+.rwmb-meta-box .rwmb-field {
+  margin: 15px 0; }

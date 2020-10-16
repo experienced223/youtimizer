@@ -1,0 +1,42 @@
+/* 
+ * Title:   Miracle | Responsive Multi-Purpose Wordpress Theme - Backend edit menu style file
+ * Author:  http://themeforest.net/user/soaptheme
+ */
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Table of contents]
+
+1. styles for edit menu
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.menu.ui-sortable {
+	.miracle-mega-menu-fields p, .miracle-mega-menu-title-label { display: none; }
+	.field-miracle-mega-menu-enabled .description-title { display: none; }
+
+	.field-miracle-mega-menu-enabled .miracle-mega-menu-fields .field-miracle-icon { display: block; }
+
+	.menu-item-depth-0 {
+		.description-title { display: block; }
+		.miracle-mega-menu-fields {
+			.field-miracle-enable-mega-menu { display: block; }
+		}
+		&.field-miracle-mega-menu-enabled .miracle-mega-menu-fields .field-miracle-columns { display: block; }
+	}
+
+	.menu-item-depth-1.field-miracle-mega-menu-enabled {
+		.miracle-default-label { display: none; }
+		.miracle-mega-menu-title-label {
+			display: inline;
+			small { display: inline-block; padding-bottom: 3px; color: #888; }
+		}
+		.miracle-mega-menu-fields .field-miracle-new-row { display: block; }
+
+		p.description { width: auto; float: none; height: auto; }
+	}
+
+	.menu-item-depth-2.field-miracle-mega-menu-enabled {
+		
+	}
+}

@@ -1,0 +1,28 @@
+/*
+ * Title:   Updates Style File
+ * Author:  http://themeforest.net/user/soaptheme 
+ */
+/* version 1.1.5 */
+.testimonials .testimonial {
+  height: 100%;
+}
+
+.iso-container .image.hover-style3 {
+  -webkit-backface-visibility: hidden;
+}
+
+/* version 1.2.1 */
+html {
+  min-height: initial;
+  overflow-x: visible !important;
+}
+
+#page-wrapper {
+  z-index: auto;
+}
+
+/* version 1.2.5 */
+.woocommerce .cart_totals table th, .woocommerce .cart_totals table td { padding-left: 40px; padding-right: 40px; }
+@media (max-width: 767px) {
+    .woocommerce .cart_totals table th, .woocommerce .cart_totals table td { padding-left: 10px; padding-right: 10px; }
+}

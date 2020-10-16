@@ -1,0 +1,824 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Modal Login\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-09 15:19-0400\n"
+"PO-Revision-Date: 2014-06-20 12:55-0000\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_n:1,2;_x:1,2c;_ex:1,2x;esc_attr__;esc_attr_e;_;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: ..\n"
+"Last-Translator: \n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: includes/modal-login-class.php:69
+msgid "Settings"
+msgstr ""
+
+#: includes/modal-login-class.php:85
+msgid "Help"
+msgstr ""
+
+#: includes/modal-login-class.php:102
+msgid "Modal Login Link"
+msgstr ""
+
+#: includes/modal-login-class.php:112
+msgid "Login Label"
+msgstr ""
+
+#: includes/modal-login-class.php:113
+msgid "Logout Label"
+msgstr ""
+
+#: includes/modal-login-class.php:162
+msgid "Checking Credentials..."
+msgstr ""
+
+#: includes/modal-login-class.php:294
+msgid "You are already logged in"
+msgstr ""
+
+#: includes/modal-login-class.php:315
+msgid "Wrong Username or Password!"
+msgstr ""
+
+#: includes/modal-login-class.php:320
+msgid "Login Successful!"
+msgstr ""
+
+#: includes/modal-login-class.php:343
+msgid "reCAPTCHA invalid"
+msgstr ""
+
+#: includes/modal-login-class.php:367
+msgid "Registration complete."
+msgstr ""
+
+#: includes/modal-login-class.php:369
+msgid "Registration complete. Check your email."
+msgstr ""
+
+#: includes/modal-login-class.php:398
+msgid "Password Reset. Please check your email."
+msgstr ""
+
+#: includes/modal-login-class.php:425
+msgid "Please enter a First Name."
+msgstr ""
+
+#: includes/modal-login-class.php:427
+msgid "The First Name is invalid because it uses illegal characters. Please enter a valid username."
+msgstr ""
+
+#: includes/modal-login-class.php:432
+msgid "Please enter a Last Name."
+msgstr ""
+
+#: includes/modal-login-class.php:434
+msgid "The Last Name is invalid because it uses illegal characters. Please enter a valid username."
+msgstr ""
+
+#: includes/modal-login-class.php:441
+msgid "Please enter a username."
+msgstr ""
+
+#: includes/modal-login-class.php:443
+msgid "This username is invalid because it uses illegal characters. Please enter a valid username."
+msgstr ""
+
+#: includes/modal-login-class.php:446
+msgid "This username is already registered. Please choose another one."
+msgstr ""
+
+#: includes/modal-login-class.php:451
+msgid "Please type your email address."
+msgstr ""
+
+#: includes/modal-login-class.php:453
+msgid "The email address isn't correct."
+msgstr ""
+
+#: includes/modal-login-class.php:456
+msgid "This email is already registered, please choose another one."
+msgstr ""
+
+#: includes/modal-login-class.php:463
+msgid "Please type your password."
+msgstr ""
+
+#: includes/modal-login-class.php:465
+msgid "Password must be 6 character long."
+msgstr ""
+
+#: includes/modal-login-class.php:467
+msgid "Passwords do not match."
+msgstr ""
+
+#: includes/modal-login-class.php:492
+msgid "Couldn't register you... please contact the site administrator"
+msgstr ""
+
+#: includes/modal-login-class.php:510
+#, php-format
+msgid "New user registration on your site %s:"
+msgstr ""
+
+#: includes/modal-login-class.php:511 includes/modal-login-class.php:520
+#: includes/modal-login-class.php:618
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: includes/modal-login-class.php:512
+#, php-format
+msgid "Email: %s"
+msgstr ""
+
+#: includes/modal-login-class.php:514
+#, php-format
+msgid "[%s] New User Registration"
+msgstr ""
+
+#: includes/modal-login-class.php:521
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: includes/modal-login-class.php:526
+#, php-format
+msgid "[%s] Your username and password"
+msgstr ""
+
+#: includes/modal-login-class.php:563
+msgid "Please enter a username or e-mail address."
+msgstr ""
+
+#: includes/modal-login-class.php:567
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: includes/modal-login-class.php:581
+msgid "Invalid username or e-mail."
+msgstr ""
+
+#: includes/modal-login-class.php:596
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: includes/modal-login-class.php:613
+msgid "Could not save password reset key to database."
+msgstr ""
+
+#: includes/modal-login-class.php:616
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: includes/modal-login-class.php:619
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: includes/modal-login-class.php:620
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: includes/modal-login-class.php:631
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: includes/modal-login-class.php:636
+msgid "The e-mail could not be sent. Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+#: includes/modal-login-class.php:685 includes/modal-login-class.php:929
+#: includes/modal-login-class.php:983 includes/modal-login-class.php:1027
+#: includes/modal-login-class.php:1032
+msgid "Login"
+msgstr ""
+
+#: includes/modal-login-class.php:699 includes/modal-login-class.php:702
+#: includes/modal-login-class.php:781 includes/modal-login-class.php:784
+msgid "Username"
+msgstr ""
+
+#: includes/modal-login-class.php:710 includes/modal-login-class.php:713
+#: includes/modal-login-class.php:724 includes/modal-login-class.php:805
+#: includes/modal-login-class.php:808
+msgid "Password"
+msgstr ""
+
+#: includes/modal-login-class.php:726
+msgid "Remember Me"
+msgstr ""
+
+#: includes/modal-login-class.php:735
+msgid "Log In"
+msgstr ""
+
+#: includes/modal-login-class.php:757 includes/modal-login-class.php:913
+#: includes/modal-login-class.php:986 includes/modal-login-class.php:1039
+#: includes/modal-login-class.php:1043
+msgid "Register"
+msgstr ""
+
+#: includes/modal-login-class.php:771
+msgid "First Name"
+msgstr ""
+
+#: includes/modal-login-class.php:772
+msgid "First"
+msgstr ""
+
+#: includes/modal-login-class.php:775
+msgid "Last Name"
+msgstr ""
+
+#: includes/modal-login-class.php:776
+msgid "Last"
+msgstr ""
+
+#: includes/modal-login-class.php:792 includes/modal-login-class.php:795
+msgid "Email"
+msgstr ""
+
+#: includes/modal-login-class.php:813 includes/modal-login-class.php:816
+msgid "Confirm Password"
+msgstr ""
+
+#: includes/modal-login-class.php:835
+msgid "Sign Up"
+msgstr ""
+
+#: includes/modal-login-class.php:851
+msgid "Forgotten Password?"
+msgstr ""
+
+#: includes/modal-login-class.php:861 includes/modal-login-class.php:864
+msgid "Username or Email"
+msgstr ""
+
+#: includes/modal-login-class.php:878
+msgid "Reset Password"
+msgstr ""
+
+#: includes/modal-login-class.php:916
+msgid "Lost your password?"
+msgstr ""
+
+#: includes/modal-login-class.php:918
+msgid "Back to Login"
+msgstr ""
+
+#: includes/modal-login-class.php:949
+msgid "View Admin"
+msgstr ""
+
+#: includes/modal-login-class.php:984 includes/modal-login-class.php:1028
+#: includes/modal-login-class.php:1032
+msgid "Logout"
+msgstr ""
+
+#: includes/modal-login-class.php:985
+msgid "You are already registered and logged in"
+msgstr ""
+
+#: includes/modal-login-class.php:1004
+#, php-format
+msgctxt "Shortcode Logout Text"
+msgid "%s"
+msgstr ""
+
+#: includes/modal-login-class.php:1006
+#, php-format
+msgctxt "Shortcode Login Text"
+msgid "%s"
+msgstr ""
+
+#: includes/modal-login-class.php:1052
+msgid "Add to Menu"
+msgstr ""
+
+#: includes/options/framework.config.php:10
+#: includes/options/framework.config.php:11
+#: includes/widget/modal-login-widget.php:14
+msgid "Modal Login"
+msgstr ""
+
+#: includes/options/framework.config.php:28
+msgid "Login Form"
+msgstr ""
+
+#: includes/options/framework.config.php:38
+#: includes/options/framework.config.php:68
+#: includes/options/shortcode.config.php:31
+msgid "Title"
+msgstr ""
+
+#: includes/options/framework.config.php:44
+#: includes/options/framework.config.php:74
+msgid "Subtitle"
+msgstr ""
+
+#: includes/options/framework.config.php:58
+msgid "Registration Form"
+msgstr ""
+
+#: includes/options/framework.config.php:87
+msgid "User Name"
+msgstr ""
+
+#: includes/options/framework.config.php:89
+msgid "Allow users to enter their first and last name during registration."
+msgstr ""
+
+#: includes/options/framework.config.php:94
+msgid "User Generated Password"
+msgstr ""
+
+#: includes/options/framework.config.php:96
+msgid "Allow users to enter their own password during registration."
+msgstr ""
+
+#: includes/options/framework.config.php:101
+msgid "Enable Google reCAPTCHA in registration form, register <a target=\"_blank\" href=\"https://www.google.com/recaptcha/admin#list\">API keys</a>. If left blank reCAPTCHA will be disabled."
+msgstr ""
+
+#: includes/options/framework.config.php:106
+msgid "Site Key"
+msgstr ""
+
+#: includes/options/framework.config.php:111
+msgid "Secret Key"
+msgstr ""
+
+#: includes/options/framework.config.php:120
+msgid "Subject"
+msgstr ""
+
+#: includes/options/framework.config.php:125
+msgid "Body"
+msgstr ""
+
+#: includes/options/framework.config.php:126
+msgid "Available variables: <code>%username%</code>, <code>%password%</code>, <code>%loginlink%</code>. Leave blank to use default email template."
+msgstr ""
+
+#: includes/options/framework.config.php:140
+msgid "Redirects"
+msgstr ""
+
+#: includes/options/framework.config.php:146
+msgid "Login Redirect"
+msgstr ""
+
+#: includes/options/framework.config.php:148
+msgid "Home Page"
+msgstr ""
+
+#: includes/options/framework.config.php:149
+msgid "Current Page"
+msgstr ""
+
+#: includes/options/framework.config.php:150
+msgid "Custom URL "
+msgstr ""
+
+#: includes/options/framework.config.php:153
+msgid "Where to redirect subcriber user role after successful login."
+msgstr ""
+
+#: includes/options/framework.config.php:158
+msgid "Login Redirect URL"
+msgstr ""
+
+#: includes/options/framework.config.php:160
+#: includes/options/framework.config.php:167
+#: includes/options/framework.config.php:174
+msgid "Enter full URL e.g. "
+msgstr ""
+
+#: includes/options/framework.config.php:165
+msgid "Logout Redirect URL"
+msgstr ""
+
+#: includes/options/framework.config.php:166
+msgid "Where to redirect user after logout."
+msgstr ""
+
+#: includes/options/framework.config.php:172
+msgid "Registration Redirect URL"
+msgstr ""
+
+#: includes/options/framework.config.php:173
+msgid "Where to redirect user after successful registration."
+msgstr ""
+
+#: includes/options/framework.config.php:184
+msgid "Styling"
+msgstr ""
+
+#: includes/options/framework.config.php:190
+msgid "Display Labels"
+msgstr ""
+
+#: includes/options/framework.config.php:192
+msgid "Labels"
+msgstr ""
+
+#: includes/options/framework.config.php:193
+msgid "Placeholders"
+msgstr ""
+
+#: includes/options/framework.config.php:196
+msgid "Display input field labels or placeholders."
+msgstr ""
+
+#: includes/options/framework.config.php:201
+msgid "Center Align"
+msgstr ""
+
+#: includes/options/framework.config.php:207
+msgid "Form Shadow"
+msgstr ""
+
+#: includes/options/framework.config.php:213
+msgid "Form Border Radius"
+msgstr ""
+
+#: includes/options/framework.config.php:220
+msgid "Input Border Radius"
+msgstr ""
+
+#: includes/options/framework.config.php:227
+msgid "Backdrop Color"
+msgstr ""
+
+#: includes/options/framework.config.php:234
+msgid "Form Background Color"
+msgstr ""
+
+#: includes/options/framework.config.php:241
+msgid "Font Color"
+msgstr ""
+
+#: includes/options/framework.config.php:248
+msgid "Link Color"
+msgstr ""
+
+#: includes/options/framework.config.php:255
+msgid "Button Color"
+msgstr ""
+
+#: includes/options/framework.config.php:262
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/options/shortcode.config.php:12
+msgid "MODAL LOGIN"
+msgstr ""
+
+#: includes/options/shortcode.config.php:16
+msgid "Articles"
+msgstr ""
+
+#: includes/options/shortcode.config.php:21
+msgid "Number of Articles"
+msgstr ""
+
+#: includes/options/shortcode.config.php:27
+msgid "Order By"
+msgstr ""
+
+#: includes/options/shortcode.config.php:30
+msgid "Date"
+msgstr ""
+
+#: includes/options/shortcode.config.php:32
+msgid "Reorder"
+msgstr ""
+
+#: includes/options/shortcode.config.php:33
+msgid "Likes"
+msgstr ""
+
+#: includes/options/shortcode.config.php:39
+msgid "Order"
+msgstr ""
+
+#: includes/options/shortcode.config.php:42
+msgid "Ascending"
+msgstr ""
+
+#: includes/options/shortcode.config.php:43
+msgid "Descending"
+msgstr ""
+
+#: includes/options/shortcode.config.php:51
+msgid "None"
+msgstr ""
+
+#: includes/options/shortcode.config.php:52
+msgid "Filter by Category"
+msgstr ""
+
+#: includes/options/shortcode.config.php:53
+msgid "Filter by Tag"
+msgstr ""
+
+#: includes/options/shortcode.config.php:60
+#: includes/options/shortcode.config.php:71
+msgid "Category"
+msgstr ""
+
+#: includes/options/shortcode.config.php:82
+msgid "Display Title"
+msgstr ""
+
+#: includes/skelet/classes/framework.class.php:197
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: includes/skelet/classes/framework.class.php:202
+msgid "Default options restored."
+msgstr ""
+
+#: includes/skelet/classes/framework.class.php:221
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: includes/skelet/classes/framework.class.php:405
+msgid "Settings saved."
+msgstr ""
+
+#: includes/skelet/classes/framework.class.php:406
+msgid "Save Changes"
+msgstr ""
+
+#: includes/skelet/classes/framework.class.php:406
+msgid "Saving..."
+msgstr ""
+
+#: includes/skelet/classes/framework.class.php:407
+msgid "Restore"
+msgstr ""
+
+#: includes/skelet/classes/options.class.php:126
+msgid "CONFIG"
+msgstr ""
+
+#: includes/skelet/classes/options.class.php:132
+msgid "USAGE"
+msgstr ""
+
+#: includes/skelet/classes/options.class.php:138
+msgid "VALUE"
+msgstr ""
+
+#: includes/skelet/classes/options.class.php:214
+#, php-format
+msgid "You are editing language: ( <strong>%s</strong> )"
+msgstr ""
+
+#: includes/skelet/classes/shortcode.class.php:83
+#: includes/skelet/classes/shortcode.class.php:91
+#: includes/skelet/fields/textarea/textarea.php:29
+msgid "Add Shortcode"
+msgstr ""
+
+#: includes/skelet/classes/shortcode.class.php:93
+msgid "Select a shortcode"
+msgstr ""
+
+#: includes/skelet/classes/shortcode.class.php:109
+msgid "Insert Shortcode"
+msgstr ""
+
+#: includes/skelet/fields/background/background.php:32
+#: includes/skelet/fields/background/background.php:33
+#: includes/skelet/fields/upload/upload.php:25
+#: includes/skelet/fields/upload/upload.php:26
+msgid "Upload"
+msgstr ""
+
+#: includes/skelet/fields/background/background.php:34
+#: includes/skelet/fields/upload/upload.php:27
+msgid "Use Image"
+msgstr ""
+
+#: includes/skelet/fields/backup/backup.php:22
+msgid "Import a Backup"
+msgstr ""
+
+#: includes/skelet/fields/backup/backup.php:23
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: includes/skelet/fields/backup/backup.php:28
+msgid "Export and Download Backup"
+msgstr ""
+
+#: includes/skelet/fields/backup/backup.php:29
+msgid "or"
+msgstr ""
+
+#: includes/skelet/fields/backup/backup.php:30
+msgid "!!! Reset All Options !!!"
+msgstr ""
+
+#: includes/skelet/fields/backup/backup.php:31
+msgid "Please be sure for reset all of framework options."
+msgstr ""
+
+#: includes/skelet/fields/gallery/gallery.php:23
+msgid "Add Gallery"
+msgstr ""
+
+#: includes/skelet/fields/gallery/gallery.php:24
+msgid "Edit Gallery"
+msgstr ""
+
+#: includes/skelet/fields/gallery/gallery.php:25
+msgid "Clear"
+msgstr ""
+
+#: includes/skelet/fields/group/group.php:23
+msgid "Adding"
+msgstr ""
+
+#: includes/skelet/fields/group/group.php:45
+#: includes/skelet/fields/group/group.php:77
+msgid "Remove"
+msgstr ""
+
+#: includes/skelet/fields/icon/icon.php:27
+#: includes/skelet/functions/actions.php:55
+msgid "Add Icon"
+msgstr ""
+
+#: includes/skelet/fields/icon/icon.php:28
+msgid "Remove Icon"
+msgstr ""
+
+#: includes/skelet/fields/image/image.php:24
+msgid "Add Image"
+msgstr ""
+
+#: includes/skelet/fields/sorter/sorter.php:26
+msgid "Enabled Modules"
+msgstr ""
+
+#: includes/skelet/fields/sorter/sorter.php:27
+msgid "Disabled Modules"
+msgstr ""
+
+#: includes/skelet/fields/switcher/switcher.php:22
+msgid "on"
+msgstr ""
+
+#: includes/skelet/fields/switcher/switcher.php:22
+msgid "off"
+msgstr ""
+
+#: includes/skelet/fields/typography/typography.php:75
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: includes/skelet/fields/typography/typography.php:81
+msgid "Google Fonts"
+msgstr ""
+
+#: includes/skelet/fields/typography/typography.php:109
+#: includes/skelet/functions/actions.php:30
+msgid "Error! Can not load json file."
+msgstr ""
+
+#: includes/skelet/functions/actions.php:56
+msgid "Search a Icon..."
+msgstr ""
+
+#: includes/skelet/functions/actions.php:57
+msgid "Loading..."
+msgstr ""
+
+#: includes/skelet/functions/helpers.php:50
+msgid "This field class is not available!"
+msgstr ""
+
+#: includes/skelet/functions/helpers.php:610
+msgid "Select media"
+msgstr ""
+
+#: includes/skelet/functions/helpers.php:659
+#, php-format
+msgid "The option type <code>%s</code> is not yet implemented"
+msgstr ""
+
+#: includes/skelet/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: includes/skelet/functions/validate.php:33
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: includes/skelet/functions/validate.php:51
+msgid "Fatal Error! This field is required!"
+msgstr ""
+
+#: includes/skelet/pressapps/template/help.php:10
+msgid "How can we help?"
+msgstr ""
+
+#: includes/skelet/pressapps/template/help.php:11
+msgid "Find answers in documentation or contact us through standard or premium support"
+msgstr ""
+
+#: includes/skelet/pressapps/template/help.php:18
+msgid "Help Center"
+msgstr ""
+
+#: includes/skelet/pressapps/template/help.php:19
+msgid "Learn how to install, setup, use and customize our products in documentation"
+msgstr ""
+
+#: includes/skelet/pressapps/template/help.php:25
+msgid "Standard Support"
+msgstr ""
+
+#: includes/skelet/pressapps/template/help.php:26
+msgid "Envato market purchases include six month of complimentary standard support"
+msgstr ""
+
+#: includes/skelet/pressapps/template/help.php:32
+msgid "Premium Support"
+msgstr ""
+
+#: includes/skelet/pressapps/template/help.php:33
+msgid "Let us help you with rapid response times and advanced technical support"
+msgstr ""
+
+#: includes/skelet/pressapps/template/help.php:38
+msgid "Looking for more?"
+msgstr ""
+
+#: includes/skelet/pressapps/template/help.php:43
+msgid "Customization"
+msgstr ""
+
+#: includes/skelet/pressapps/template/help.php:44
+msgid "Do you want to customise our product and don not have the time or skills, get in touch"
+msgstr ""
+
+#: includes/skelet/pressapps/template/help.php:50
+msgid "Let us know what you think"
+msgstr ""
+
+#: includes/skelet/pressapps/template/help.php:51
+msgid "Your feedback helps us build better products and create better experience for you. Please share you your thoughts and ideas."
+msgstr ""
+
+#: includes/skelet/pressapps/template/help.php:52
+msgid "Feedback"
+msgstr ""
+
+#: includes/skelet/pressapps/template/products.php:9
+msgid "Products By PressApps"
+msgstr ""
+
+#: includes/widget/form.php:8
+msgid "Title:"
+msgstr ""
+
+#: includes/widget/form.php:13
+msgid "Login Text:"
+msgstr ""
+
+#: includes/widget/form.php:18
+msgid "Logout Text:"
+msgstr ""
+
+#: includes/widget/form.php:23
+msgid "Show Admin Link:"
+msgstr ""
+
+#: includes/widget/modal-login-widget.php:11
+msgid "Display modal login and logout links"
+msgstr ""
+
+#: pressapps-modal-login.php:21
+msgid "The minimum PHP version required for this plugin is 5.3.0 Please upgrade the PHP version or contact your hosting provider to do it for you."
+msgstr ""
+
+#: pressapps-modal-login.php:104 pressapps-modal-login.php:118
+msgid "Error: Modal Login class failed to load"
+msgstr ""

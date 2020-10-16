@@ -1,0 +1,52 @@
+
+a.left:hover {
+	color: #d2d2d2;
+	text-decoration: none;
+	background-position: 0 60%;
+}
+
+/* Posting page styles
+----------------------------------------*/
+
+/* Submit button fieldset */
+fieldset.submit-buttons {
+	text-align: center;
+	vertical-align: middle;
+	margin: 5px 0;
+}
+
+dd label {
+	white-space: nowrap;
+	color: #333;
+}
+
+a.top {
+	background: none no-repeat top left;
+	text-decoration: none;
+	width: {IMG_ICON_BACK_TOP_WIDTH}px;
+	height: {IMG_ICON_BACK_TOP_HEIGHT}px;
+	display: block;
+	float: right;
+	overflow: hidden;
+	letter-spacing: 1000px;
+	text-indent: 11px;
+}
+
+h2 {
+	color: #28313F;
+}
+
+a:active	{ color: #d2d2d2; text-decoration: none; }
+
+/* Display options on viewtopic/viewforum pages  */
+
+h3 {
+	border-bottom-color: #CCCCCC;
+	color: #115098;
+}
+
+dd select {
+	width: auto;
+}
+
+a.right		{ background: none no-repeat 95% 60%; }

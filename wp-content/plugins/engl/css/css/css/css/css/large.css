@@ -1,0 +1,33 @@
+
+a.button1, input.button1 {
+	font-weight: bold;
+	border: 1px solid #666666;
+}
+
+a:link	{ color: #898989; text-decoration: none; }
+
+/* Form Styles
+---------------------------------------- */
+
+.search-box input {
+}
+
+a.up, a.up:link, a.up:active, a.up:visited {
+	padding-left: 10px;
+	text-decoration: none;
+	border-bottom-width: 0;
+}
+
+.navbar {
+	background-color: #99ccff;/*#d9d9d9;*/
+}
+
+/* Links adjustment to correctly display an order of rtl/ltr mixed content */
+
+option {
+	padding-right: 1em;
+}
+
+fieldset.fields1 div {
+	margin-bottom: 3px;
+}

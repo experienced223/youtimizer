@@ -1,0 +1,32 @@
+/*
+ * Title:   Miracle | Responsive Multi-Purpose Wordpress Theme - Backend post meta style file
+ * Author:  http://themeforest.net/user/soaptheme
+ */
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[Table of contents]
+
+1. styles for form table of post meta box
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+@import '../variables';
+@import '../mixin';
+
+/* 1. styles for form table of post meta box */
+.no-margin { margin: 0 !important; }
+
+.rwmb-field {
+  &.rwmb-radio-wrapper .rwmb-input > label {
+    margin-right: 6px;
+    &:last-child { margin-right: 0; }
+  }
+  .rwmb-label { margin-bottom: 4px; }
+
+  &.full-width {
+    .rwmb-text { width: 99%; }
+  }
+}
+
+.rwmb-meta-box .rwmb-field { margin: 15px 0; }

@@ -1,0 +1,36 @@
+
+fieldset.submit-buttons input {
+	vertical-align: middle;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+fieldset.fields2 dd {
+	margin-left: 16em;
+	border-left-width: 0;
+}
+
+input.medium	{ width: 50%; }
+
+dd label {
+	white-space: nowrap;
+	color: #333;
+}
+
+/* a.topictitle:visited { color: #d2d2d2; } */
+
+fieldset.fields1 dd {
+	margin-left: 15em;
+	border-left-width: 0;
+}
+
+fieldset.fields1 {
+	background-color: transparent;
+}
+
+fieldset.quick-login label {
+	white-space: nowrap;
+	padding-right: 2px;
+}
+
+/* Back to top of page */

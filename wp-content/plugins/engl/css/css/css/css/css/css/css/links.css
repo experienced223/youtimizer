@@ -1,0 +1,58 @@
+
+.tiny { width: 10%;}
+
+.narrow { width: 25%;}
+
+/* Definition list layout for forms
+---------------------------------------- */
+
+input.search {
+	background-image: none;
+	background-repeat: no-repeat;
+	background-position: left 1px;
+	padding-left: 17px;
+}
+
+.postlink:hover {
+	background-color: #f6f6f6;
+	text-decoration: none;
+	color: #404040;
+}
+
+#search-box a:hover, .navbg a:hover, .forumbg .header a:hover, .forabg .header a:hover, th a:hover {
+	color: #ffffff;
+	text-decoration: underline;
+}
+
+fieldset.display-actions {
+	text-align: right;
+	line-height: 2em;
+	white-space: nowrap;
+	padding-right: 1em;
+}
+
+a.left		{ background: none no-repeat 3px 60%; }
+
+a.down, a.down:link, a.down:active, a.down:visited {
+	padding-right: 10px;
+}
+
+fieldset.quick-login input.inputbox {
+	width: 15%;
+	vertical-align: middle;
+	margin-right: 5px;
+	background-color: #f3f3f3;
+}
+
+fieldset dl {
+	padding: 4px 0;
+}
+
+a:hover	{ color: #d3d3d3; text-decoration: underline; }
+
+/* Back to top of page */
+
+.postprofile a:hover, .postprofile dt.author a:hover {
+	text-decoration: underline;
+	color: #d3d3d3;
+}

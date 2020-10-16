@@ -1,0 +1,49 @@
+
+a {
+	direction: ltr;
+	unicode-bidi: embed;
+}
+
+a.right, a.right:active, a.right:visited {
+	padding-right: 12px;
+}
+
+hr.dashed {
+	border-top-color: #CCCCCC;
+}
+
+
+textarea.inputbox {
+	width: 85%;
+}
+
+/* Display options on viewtopic/viewforum pages  */
+
+.navbar {
+	background-color: #99ccff;/*#d9d9d9;*/
+}
+
+#search-box a:active, .navbg a:active, .forumbg .header a:active, .forabg .header a:active, th a:active {
+	color: #ffffff;
+	text-decoration: none;
+}
+/*  	
+--------------------------------------------------------------
+Colours and backgrounds for common.css
+-------------------------------------------------------------- */
+
+/* Display actions for ucp and mcp pages */
+
+fieldset dl:hover dt label {
+	color: #000000;
+}
+
+#timezone {
+	width: 95%;
+}
+
+a.up, a.up:link, a.up:active, a.up:visited {
+	padding-left: 10px;
+	text-decoration: none;
+	border-bottom-width: 0;
+}

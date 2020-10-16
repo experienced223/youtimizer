@@ -1,0 +1,39 @@
+
+a.feed-icon-forum {
+	float: right;
+	margin: 3px;
+}
+
+
+
+a.down, a.down:link, a.down:active, a.down:visited {
+	padding-right: 10px;
+}
+
+/* Hover effects */
+
+.postlink:hover {
+	background-color: #f6f6f6;
+	text-decoration: none;
+	color: #404040;
+}
+
+/* Emoticons panel */
+#smiley-box {
+	width: 18%;
+	float: right;
+}
+
+a.left, a.left:active, a.left:visited {
+	padding-left: 12px;
+}
+
+
+textarea.inputbox {
+	width: 85%;
+}
+
+.postprofile a:hover, .postprofile dt.author a:hover {
+	text-decoration: underline;
+	color: #d3d3d3;
+}

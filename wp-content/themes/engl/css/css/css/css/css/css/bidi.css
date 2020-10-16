@@ -1,0 +1,27 @@
+
+#format-buttons {
+	margin: 15px 0 2px 0;
+}
+
+/* Emoticons panel */
+#smiley-box {
+	width: 18%;
+	float: right;
+}
+
+a.button1, input.button1, input.button3, a.button2, input.button2 {
+	width: auto !important;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
+	color: #000;
+	background: #FAFAFA none repeat-x top left;
+}
+
+/* Topic and forum Search */
+
+a.forumtitle:active {
+	color: #898989;
+}
+
+a:link	{ color: #898989; text-decoration: none; }
